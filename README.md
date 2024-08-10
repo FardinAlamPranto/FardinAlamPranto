@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/fardinalam522" target="blank"><img src="https://img.shields.io/twitter/follow/fardinalam522?logo=twitter&style=for-the-badge" alt="fardinalam522" /></a> </p>
 
-- 🔭 I’m currently working on **Android and iOS Applications**
+- 🔭 I’m currently working on **Android, iOS & web Applications**
 
 - 🌱 I’m currently learning **Software Development Courses**
 
